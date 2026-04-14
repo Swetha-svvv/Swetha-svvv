@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Swetha 👋
 
-<!--
-**Swetha-svvv/Swetha-svvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 BTech Student | ☁️ Aspiring Cloud & DevOps Engineer | 🚀 AWS Enthusiast
+---
+## 🚀 About Me
 
-Here are some ideas to get you started:
+Hi! I'm Swetha, a passionate 3rd year CSE student at Aditya College of Engineering and Technology, Surampalem. I’m focused on building a strong base in cloud computing and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I’m exploring AWS cloud technologies, working with core services like EC2 and VPC, and understanding how scalable systems are designed.
+
+I enjoy implementing what I learn through real-time projects, especially in cloud-based and intelligent applications. I’m always eager to learn new technologies and enhance my skills.
+
+## 💡 Skills & Tools
+
+💻 Programming: C, Python, Java  
+🌐 Web Development: HTML, CSS  
+☁️ Cloud Technology: AWS (EC2, VPC, S3, Lambda, IAM, CloudWatch, Rekognition)  
+🗄️ Database: SQL  
+🔧 Version Control: Git & GitHub  
+
+## 📫 Connect with Me
+
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/swetha-siripurapu-655000298/)
