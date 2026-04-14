@@ -20,4 +20,4 @@ I enjoy implementing what I learn through real-time projects, especially in clou
 
 ## 📫 Connect with Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/swetha-siripurapu-655000298/
+🔗 [LinkedIn](https://www.linkedin.com/in/swetha-siripurapu-655000298/)
