@@ -12,11 +12,11 @@ I enjoy implementing what I learn through real-time projects, especially in clou
 
 ## 💡 Skills & Tools
 
-💻 Programming: C, Python, Java  
-🌐 Web Development: HTML, CSS  
-☁️ Cloud Technology: AWS (EC2, VPC, S3, Lambda, IAM, CloudWatch, Rekognition)  
-🗄️ Database: SQL  
-🔧 Version Control: Git & GitHub  
+💻 **Programming:** C, Python, Java  
+🌐 **Web Development:** HTML, CSS  
+☁️ **Cloud Technology:** AWS (EC2, VPC, S3, Lambda, IAM, CloudWatch, Rekognition)  
+🗄️ **Database:** SQL  
+🔧 **Version Control:** Git & GitHub   
 
 ## 📫 Connect with Me
 
